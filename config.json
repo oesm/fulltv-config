@@ -1,0 +1,8 @@
+{
+  "dns": "http://tv.conectaecuador.com",
+  "dns_backup": [
+    "http://tv.smgroupecuador.com"
+  ],
+  "mensaje": "",
+  "version_minima": "3.2"
+}
